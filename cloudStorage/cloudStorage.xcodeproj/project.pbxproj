@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2239298F279BB997004D6550 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2239298E279BB997004D6550 /* AppDelegate.swift */; };
 		22392991279BB997004D6550 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 22392990279BB997004D6550 /* GameScene.sks */; };
 		22392993279BB997004D6550 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 22392992279BB997004D6550 /* Actions.sks */; };
 		22392995279BB997004D6550 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22392994279BB997004D6550 /* GameScene.swift */; };
@@ -19,7 +18,6 @@
 
 /* Begin PBXFileReference section */
 		2239298B279BB997004D6550 /* cloudStorage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cloudStorage.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		2239298E279BB997004D6550 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		22392990279BB997004D6550 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 		22392992279BB997004D6550 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
 		22392994279BB997004D6550 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
@@ -59,7 +57,6 @@
 		2239298D279BB997004D6550 /* cloudStorage */ = {
 			isa = PBXGroup;
 			children = (
-				2239298E279BB997004D6550 /* AppDelegate.swift */,
 				22392990279BB997004D6550 /* GameScene.sks */,
 				22392992279BB997004D6550 /* Actions.sks */,
 				22392994279BB997004D6550 /* GameScene.swift */,
@@ -146,7 +143,6 @@
 			files = (
 				22392995279BB997004D6550 /* GameScene.swift in Sources */,
 				22392997279BB997004D6550 /* GameViewController.swift in Sources */,
-				2239298F279BB997004D6550 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
