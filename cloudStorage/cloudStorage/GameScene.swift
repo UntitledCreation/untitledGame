@@ -91,12 +91,13 @@ for body in bodyCount!{
 if otherBird.physicsBody?.collisionBitMask == body.node?.physicsBody?.collisionBitMask{
 print("IN CONTACT")
 }
-}
+    }
 
+            }
+            )
+            
         }
-        )
         
     }
-    
 }
-}
+
