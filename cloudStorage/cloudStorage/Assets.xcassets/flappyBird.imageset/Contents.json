@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "flappyBird.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
