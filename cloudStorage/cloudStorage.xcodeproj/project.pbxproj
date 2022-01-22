@@ -15,6 +15,8 @@
 		2239299C279BB99C004D6550 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2239299B279BB99C004D6550 /* Assets.xcassets */; };
 		2239299F279BB99C004D6550 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2239299D279BB99C004D6550 /* LaunchScreen.storyboard */; };
 		22FBEF40279BBF920092D4E7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22FBEF3F279BBF920092D4E7 /* AppDelegate.swift */; };
+		22FBEF42279BC3560092D4E7 /* MyTileSet.sks in Resources */ = {isa = PBXBuildFile; fileRef = 22FBEF41279BC3560092D4E7 /* MyTileSet.sks */; };
+		22FBEF44279BC36B0092D4E7 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 22FBEF43279BC36B0092D4E7 /* GameScene.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +29,8 @@
 		2239299B279BB99C004D6550 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2239299E279BB99C004D6550 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		22FBEF3F279BBF920092D4E7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		22FBEF41279BC3560092D4E7 /* MyTileSet.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyTileSet.sks; sourceTree = "<group>"; };
+		22FBEF43279BC36B0092D4E7 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,12 +65,14 @@
 			children = (
 				22FBEF3F279BBF920092D4E7 /* AppDelegate.swift */,
 				22392990279BB997004D6550 /* GameScene.sks */,
+				22FBEF43279BC36B0092D4E7 /* GameScene.sks */,
 				22392992279BB997004D6550 /* Actions.sks */,
 				22392994279BB997004D6550 /* GameScene.swift */,
 				22392996279BB997004D6550 /* GameViewController.swift */,
 				22392998279BB997004D6550 /* Main.storyboard */,
 				2239299B279BB99C004D6550 /* Assets.xcassets */,
 				2239299D279BB99C004D6550 /* LaunchScreen.storyboard */,
+				22FBEF41279BC3560092D4E7 /* MyTileSet.sks */,
 			);
 			path = cloudStorage;
 			sourceTree = "<group>";
@@ -129,9 +135,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				22FBEF42279BC3560092D4E7 /* MyTileSet.sks in Resources */,
 				2239299A279BB997004D6550 /* Main.storyboard in Resources */,
 				22392991279BB997004D6550 /* GameScene.sks in Resources */,
 				2239299C279BB99C004D6550 /* Assets.xcassets in Resources */,
+				22FBEF44279BC36B0092D4E7 /* GameScene.sks in Resources */,
 				2239299F279BB99C004D6550 /* LaunchScreen.storyboard in Resources */,
 				22392993279BB997004D6550 /* Actions.sks in Resources */,
 			);
