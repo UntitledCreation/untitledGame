@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		22392991279BB997004D6550 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 22392990279BB997004D6550 /* GameScene.sks */; };
 		22392993279BB997004D6550 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 22392992279BB997004D6550 /* Actions.sks */; };
 		22392995279BB997004D6550 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22392994279BB997004D6550 /* GameScene.swift */; };
 		22392997279BB997004D6550 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22392996279BB997004D6550 /* GameViewController.swift */; };
@@ -21,7 +20,6 @@
 
 /* Begin PBXFileReference section */
 		2239298B279BB997004D6550 /* cloudStorage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cloudStorage.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		22392990279BB997004D6550 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 		22392992279BB997004D6550 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
 		22392994279BB997004D6550 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		22392996279BB997004D6550 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
@@ -64,7 +62,6 @@
 			isa = PBXGroup;
 			children = (
 				22FBEF3F279BBF920092D4E7 /* AppDelegate.swift */,
-				22392990279BB997004D6550 /* GameScene.sks */,
 				22FBEF43279BC36B0092D4E7 /* GameScene.sks */,
 				22392992279BB997004D6550 /* Actions.sks */,
 				22392994279BB997004D6550 /* GameScene.swift */,
@@ -137,7 +134,6 @@
 			files = (
 				22FBEF42279BC3560092D4E7 /* MyTileSet.sks in Resources */,
 				2239299A279BB997004D6550 /* Main.storyboard in Resources */,
-				22392991279BB997004D6550 /* GameScene.sks in Resources */,
 				2239299C279BB99C004D6550 /* Assets.xcassets in Resources */,
 				22FBEF44279BC36B0092D4E7 /* GameScene.sks in Resources */,
 				2239299F279BB99C004D6550 /* LaunchScreen.storyboard in Resources */,
